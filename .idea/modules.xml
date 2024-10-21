@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvanDSA2/AdvanDSA2.iml" filepath="$PROJECT_DIR$/AdvanDSA2/AdvanDSA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvancedDSA/AdvancedDSA.iml" filepath="$PROJECT_DIR$/AdvancedDSA/AdvancedDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoPractise.iml" filepath="$PROJECT_DIR$/AlgoPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INtermediate/INtermediate.iml" filepath="$PROJECT_DIR$/INtermediate/INtermediate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refresher/Refresher.iml" filepath="$PROJECT_DIR$/Refresher/Refresher.iml" />
+    </modules>
+  </component>
+</project>
